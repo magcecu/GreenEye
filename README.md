@@ -4,7 +4,9 @@ GreenEye is a simple yet effective antimalware software. It works by spectating 
 -Turn off your PC when it sences such activity
 -Look for unwanted webcam activity
 
-!(eye.png)
+<p align="center">
+  <img src="eye.png">
+</p>
 
 ## Usage
 ONLY COMPATIBLE WITH WINDOWS!
