@@ -1,0 +1,6 @@
+{
+    "turn_off_pc": "T/F (turns off the pc when there is an activity detected for safety)",
+    "delete_new_files": "T/F(deletes newly created files for safety)",
+    "path_to_monitor": "C:/...",
+    "check_for_cam_spy": "T/F(checks your webcam if its getting spyed on)"
+}
