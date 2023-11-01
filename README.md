@@ -1,8 +1,8 @@
 # GreenEye
 GreenEye is a simple yet effective antimalware software. It works by spectating different folders for abnormal activity and when it detects something it will print a message into the console. You can do various things with the newly appeared files such as: 
--Delete them on the spot for any simple flooding malwares
--Turn off your PC when it sences such activity
--Look for unwanted webcam activity
+* Delete them on the spot for any simple flooding malwares
+* Turn off your PC when it sences such activity
+* Look for unwanted webcam activity
 
 <p align="center">
   <img src="eye.png">
