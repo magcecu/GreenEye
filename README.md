@@ -21,4 +21,4 @@ pip install -r requirements.txt
 ✨Me✨
 # External links
 * https://t.me/TheMagMarket
-* https://discord.gg/GhCpAc7G
+* https://discord.gg/P8sKTTndqk
